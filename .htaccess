@@ -1,4 +1,4 @@
 AuthName "test_basicAuthentication"
-AuthUserFile "/test-deploy-s8c3.onrender.com/.htpasswd"
+AuthUserFile /test-deploy-s8c3.onrender.com/.htpasswd
 AuthType Basic
 require valid-user

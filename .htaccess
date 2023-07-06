@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "test_basicAuthentication"
-AuthUserFile "ycoz-ghub.github.io/test_page01/.htpasswd"
-require valid-user
